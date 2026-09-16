@@ -129,9 +129,9 @@ Each provider has its own strengths. DMIT and Bluehost lead in CPU performance w
 ---
  
 
----
 
 ## Reference
 
 - [Best Cheap VPS Servers 2026](https://govps.top/topic/cheap-vps.html)
 - [Top 7 Best Cheap VPS Hosting](https://net936.blogspot.com/2026/09/best-cheap-vps.html)
+- [Hostinger VPS Review--Speed & CPU](https://github.com/geeeeeeeek/cheap_vps/blob/main/docs/hostinger-vps-review.md)
